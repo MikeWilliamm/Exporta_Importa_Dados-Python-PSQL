@@ -1,5 +1,5 @@
 ## Objetivo
-Criar programa robusto, escalável, eficiente e eficaz com orientação a objetos  que faz a transferência em massa de tabelas completas de um banco de dados alocado em um servidor para um banco de dados alocado localmente, é necessário o envio de e-mail com status de execução do programa e salvamento de log com status de transferência de cada tabela.
+Criar programa robusto, escalável, eficiente e eficaz com paradigma de orientação a objetos  que faz a transferência em massa de tabelas completas de um banco de dados alocado em um servidor para um banco de dados alocado localmente, é necessário o envio de e-mail com status de execução do programa e salvamento de log com status de transferência de cada tabela.
 
 ## Fontes de estudos 
 Artigo Exportação - [Melhores maneiras e etapas para exportar dados Postgres para CSV](https://hevodata.com/learn/postgres-export-to-csv/#:~:text=The%20easiest%20but%20the%20most,with%20the%20COPY%20TO%20command.)
