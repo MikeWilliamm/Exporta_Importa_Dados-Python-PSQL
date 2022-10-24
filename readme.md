@@ -33,7 +33,7 @@ database.psql_import('sales.stores_sales','sales_stores_sales.csv') #Tabela a se
 
 
 <b>Resultado final:</b>
-O Programa finalizado com sucesso e se mostrou eficiente e eficaz, aplicado uma das melhores técnicas de exportação e importação de dados, é de fácil utilização, fácil manutenção, escalável e robusto.
+O Programa foi finalizado com sucesso e se mostrou eficiente e eficaz, aplicado uma das melhores técnicas de exportação e importação de dados, é de fácil utilização, fácil manutenção, escalável e robusto.
 
 <p align="center">
   <b>E-mail com status de execução bem-sucedido</b>
