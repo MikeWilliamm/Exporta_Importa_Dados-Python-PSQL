@@ -18,7 +18,7 @@ Em quesito de robustez, escalabilidade e eficiência do programa, foi utilizado 
 - Classe dataWriter_class: responsável por salvar log de execução tabela a tabela exportada e importada.
 - Classe database_class: responsável por realizar todas operações que envolva banco de dados.
 
-Funcionamento do programa:
+<b>Funcionamento do programa:</b>
 Uma vez configurado as conexões com os bancos de dados na classe <b>Db</b> do script <b>database_class</b>, o programa irá funcionar de forma prática e encapsulada, no script <b>main.py</b> é somente necessário definir a instanciação de um objeto <b>database</b>, com o objeto do tipo database é necessário chamar em sequência os métodos <b>psql_export</b> e <b>psql_import</b>, nos dois casos deve ser passado como parâmetro o <b>schema.tabala</b> a ser exportado/importado e o nome do arquivo <b>.csv</b> onde será exportado os dados e posteriormente utilizado para importação de dados. 
 
 Exemplo de uso dos métodos de importação e exportação:
