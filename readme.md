@@ -24,7 +24,7 @@ Uma vez configurado as conexões com os bancos de dados na classe <b>Db</b> do s
 Exemplo de uso dos métodos de importação e exportação:
 ```
 database.psql_export('select * from sales.stores_sales', 'sales_stores_sales.csv') #Tabela a ser exportada / arquivo csv de salvamento de dados
-database.psql_import('sales.stores_sales','sales_stores_sales.csv') #Tabelas a ser importado os dados / arquivo que contem os dados
+database.psql_import('sales.stores_sales','sales_stores_sales.csv') #Tabela a ser importada / arquivo que contem os dados
 ```
 
 ## Resultados
