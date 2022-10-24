@@ -46,6 +46,6 @@ O Programa foi finalizado com sucesso e se mostrou eficiente e eficaz, aplicado 
 </p>
 
 <p align="center">
-  <b>Mensagem no arquivo de Log</b>
+  <b>Mensagem no arquivo de Log</b><br>
   <img  src="prints/3_menssagem_log.png">
 </p>
