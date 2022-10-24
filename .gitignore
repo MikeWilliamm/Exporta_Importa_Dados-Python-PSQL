@@ -1,0 +1,13 @@
+old
+__pycache__
+.vscode
+hub_owner.csv
+hub_owner_item_control.csv
+napp_front_v_clientesgds.csv
+sos_farma_etl_v_dProdutos.csv
+sos_farma_gds_v_order_items_rel_gsk.csv
+sos_farma_gds_v_rel_store_period.csv
+sos_farma_gds_v_rel_store_sss_mat.csv
+sos_farma_gds_v_rel_store_sss_r3m.csv
+sos_farma_gds_v_rel_store_sss_rly.csv
+sos_farma_gds_v_rel_store_sss_ytd.csv

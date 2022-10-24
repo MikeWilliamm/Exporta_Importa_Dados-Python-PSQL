@@ -1,0 +1,15 @@
+---Exportação iniciada: select * from sales.stores_sales
+---Exportação finalizada -> Tempo decorido: 2.61 segundos
+---Importação iniciada: sales.stores_sales
+---Importação finalizada -> Tempo decorido: 0.7 segundos
+--------------------------------------------------
+---Exportação iniciada: select * from clientes_data_client
+---Exportação finalizada -> Tempo decorido: 0.12 segundos
+---Importação iniciada: clientes_data_client
+---Importação finalizada -> Tempo decorido: 0.05 segundos
+--------------------------------------------------
+---Exportação iniciada: select * from estoque.data_estoque
+---Exportação finalizada -> Tempo decorido: 0.3 segundos
+---Importação iniciada: estoque.data_estoque
+---Importação finalizada -> Tempo decorido: 0.1 segundos
+--------------------------------------------------
