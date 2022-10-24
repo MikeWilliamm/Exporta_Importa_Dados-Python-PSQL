@@ -39,14 +39,12 @@ O Programa foi finalizado com sucesso e se mostrou eficiente e eficaz, aplicado 
 <p align="center">
   <img  src="prints/1_menssagem_email.png">
 </p>
-<br>
-<br>
+
 ## E-mail com status de execução mal sucedido:
 <p align="center">
   <img  src="prints/2_menssagem_email_error.png">
 </p>
-<br>
-<br>
+
 ## Mensagem no arquivo de Log:
 <p align="center">
   <img  src="prints/3_menssagem_log.png">
