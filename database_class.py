@@ -69,6 +69,11 @@ DELIMITER ',' CSV;
         self._print_msg(f'---Importação finalizada -> Tempo decorido: {round(time.time() - start_time,2)} segundos')
         self._print_msg('-'*50)
         
+        ##Método que nao necessita permissao de arquivo e é rápido igual
+        #arq = os.path.dirname(os.path.realpath(__file__))+'\\csv\\hub_stores.csv'
+        #with open(arq, 'r', encoding="utf-8") as f:
+            #next(f)  # Skip the header row. Or remove this line if csv has no header.
+            #cur.copy_expert("""COPY sos_google_etl.hub_products FROM STDIN WITH (FORMAT CSV)""", f)
         
     
         
